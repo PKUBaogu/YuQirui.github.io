@@ -9,7 +9,7 @@
 
 ## 作业2
 ### 利用geo库制作了2022年中国各省份首位度（即省会GDP在全省GDP占比）的图表。
-https://Yuqirui.github.io/
+https://YuQirui.github.io/中国.html
 
 ### 利用map库制作了2022年卡塔尔世界杯32强最终成绩的图表
 
